@@ -1,5 +1,5 @@
-###This is a simple ionic application whichdisplays my name, coty, Interests
+###This is a simple ionic application which displays my name, city, Interests
 on the homepage.
 
 
-<img src="screenshot.png" width="752">
+<img src="screenshot.PNG" width="752">
